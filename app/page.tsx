@@ -37,7 +37,7 @@ export default function Home() {
         <SectionWithImageLeft
           id="interests"
           title="Working with Flutter"
-          text="I started using Flutter 4 years ago. Built various applications for different platforms such as mobile devices, desktop devices, web, and embedded devices. Developed more than 11 projects for college work, side projects, job works, and competitive participations."
+          text="I started using Flutter 4 years ago. Built various applications for different platforms such as mobile devices, desktop devices, web, and embedded devices. Developed more than 11 projects for college work, side projects, job works, and competitive participation."
           imageUrl="https://b2332b54ed.imgdist.com/public/users/Integrators/BeeProAgency/1006069_990916/flutterLogo.png"
           imageAlt="Flutter Logo"
           imageWidth={204}
